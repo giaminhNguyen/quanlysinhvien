@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/background_dots_1.xml" value="0.209" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/background_dots_right_2.xml" value="0.209" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/background_login_1.xml" value="0.209" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/background_welcome.xml" value="0.1975" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/borber_3.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/border_1.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/border_2.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/border_3.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/btn_1.xml" value="0.1395" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/btn_2.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/btn_3.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/btn_4.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/circle.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/corner_16.xml" value="0.22" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/corner_16_white.xml" value="0.22" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/custom_dialog_1.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/custom_et_1.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/custom_et_2.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/custom_image.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/custom_textcolor_1.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/error.xml" value="0.1275" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/icon_add_24.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/icon_dropdown.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/img_circle.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/menu_24.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/spinner_color_1.xml" value="0.1195" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/spinner_custom.xml" value="0.1455" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/drawable/success.xml" value="0.1275" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/font/cantata_one.xml" value="0.28958333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/activity_chuyen_nganh.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/activity_chuyen_nganh_acticity.xml" value="0.1703125" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/activity_dang_ky.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/activity_main.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/activity_register.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/activity_welcome.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/custom_toast.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_change_password.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_chuyen_nganh.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_danh_sach_mon.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_diem_mon_hoc.xml" value="0.1796875" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_ket_qua_hoc_tap.xml" value="0.1796875" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_lop_hoc.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_mon_hoc.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_search.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_sua_chuyen_nganh.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_sua_danh_sach_mon.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_sua_lop.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_sua_mon_hoc.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_them_chuyen_nganh.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_them_danh_sach_mon.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_them_lop.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_them_mon_hoc.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dialog_thong_tin_sinh_vien.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_chuyen_nganh.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_danh_sach_mon.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_diem_mon_hoc.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_ds_sinh_vien_moi_them.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_lop.xml" value="0.22" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_lop_hoc.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_mon_hoc.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_mon_hoc_and_lop_hoc.xml" value="0.2552083333333333" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_nganh.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_sinh_vien.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/dong_them_sinh_vien.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fagment_ket_qua_hoc_tap.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment__them_sinh_vien.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_blank.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_chung.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_chuyen_nganh.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_danh_sach_mon.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_dao_tao.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_ket_qua_hoc_tap.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_lop.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_lop_hoc.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_mon_hoc.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_nganh.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_register.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_sinh_vien.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/fragment_welcome.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/hearder_navigation.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/item_chung.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/item_diem_mon_hoc.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/item_sinh_vien_moi_them.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/item_spinner_1.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/item_spinner_2.xml" value="0.2392578125" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/ngaoi_le.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/spinner_color_1.xml" value="0.1884765625" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/test_dialog_mon_hoc.xml" value="0.384765625" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/test_layout_dang_ky.xml" value="0.259375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/layout/test_welcome.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/menu/dao_tao_navib.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/menu/lop_navib.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/menu/menu_navibottom.xml" value="0.184375" />
+        <entry key="..\:/Users/giami/OneDrive/Desktop/support/FPT POLYTECHNIC/MOB202/bt/QuanLySinhVien/app/src/main/res/menu/navi_draw.xml" value="0.2021484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

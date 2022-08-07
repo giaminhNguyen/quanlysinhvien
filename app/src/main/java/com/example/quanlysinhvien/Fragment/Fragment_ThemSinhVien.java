@@ -141,12 +141,7 @@ public class Fragment_ThemSinhVien extends Fragment {
             }
         });
         ngaySinh.setOnClickListener(view -> {
-            pickerDialog = new DatePickerDialog(getActivity(), new DatePickerDialog.OnDateSetListener() {
-                @Override
-                public void onDateSet(DatePicker datePicker, int i, int i1, int i2) {
-                    ngaySinh.setText(i2 + "/" + (i1 + 1) + "/" + i);
-                }
-            }, Calendar.getInstance().get(Calendar.YEAR),Calendar.getInstance().get(Calendar.MONTH),Calendar.getInstance().get(Calendar.DATE));
+            pickerDialog = new DatePickerDialog(getActivity(), (datePicker, i, i1, i2) -> ngaySinh.setText(i2 + "/" + (i1 + 1) + "/" + i), Calendar.getInstance().get(Calendar.YEAR),Calendar.getInstance().get(Calendar.MONTH),Calendar.getInstance().get(Calendar.DATE));
             pickerDialog.show();
         });
         troVe.setOnClickListener(view -> action_.chuyen_Fragment(getActivity().getSupportFragmentManager(),Fragment_Lop.newInstance(1)));

@@ -18,6 +18,7 @@ import androidx.fragment.app.FragmentManager;
 import com.example.quanlysinhvien.DAO.DAO_Account;
 import com.example.quanlysinhvien.MainActivity;
 import com.example.quanlysinhvien.Other.Action;
+import com.example.quanlysinhvien.Other.CustomToast;
 import com.example.quanlysinhvien.R;
 import com.example.quanlysinhvien.SharePre.Share;
 
@@ -93,7 +94,7 @@ public class Fragment_Welcome extends Fragment implements View.OnClickListener {
     }
 
     private void actionWebSite() {
-        Toast.makeText(getActivity(), "ActionWeb", Toast.LENGTH_SHORT).show();
+        CustomToast.makeText(getActivity(),"WEBSITE Đang bảo trì",0,false).show();
     }
 
     private void actionDaoTao() {
