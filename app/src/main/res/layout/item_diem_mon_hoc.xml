@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="10"
+    android:gravity="center"
+    android:padding="5dp"
+    android:background="@color/white">
+    <TextView
+        android:gravity="center_vertical"
+        android:id="@+id/item_diem_mon_tv_tenMonHoc"
+        android:layout_weight="7"
+        android:layout_width="0dp"
+        android:text="Nhập môn lập trình"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:layout_height="match_parent"
+        />
+    <EditText
+        android:id="@+id/item_diem_mon_et_diem"
+        android:gravity="center_vertical"
+        android:text="5.6"
+        android:textColor="@color/custom_text_focus_2"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"/>
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/alatsi</item>
+        <item>@font/allerta</item>
+        <item>@font/anton</item>
+        <item>@font/archivo_black</item>
+        <item>@font/bevan</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/bungee</item>
+        <item>@font/candal</item>
+        <item>@font/cantata_one</item>
+        <item>@font/changa_one</item>
+        <item>@font/chonburi</item>
+        <item>@font/orienta</item>
+        <item>@font/rowdies</item>
+        <item>@font/viga</item>
+    </array>
+</resources>

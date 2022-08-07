@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gui2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.16"/>
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gui6"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.65"/>
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gui7"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.5"/>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintHeight_percent="0.38"
+        android:background="@drawable/background_welcome"/>
+
+    <ImageView
+        android:id="@+id/welcome_img_avatar"
+        android:src="@drawable/student_100"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintHeight_percent="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/gui2" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center_horizontal"
+        android:text="WELCOME"
+        android:textColor="#F7F4FB"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/welcome_img_avatar" />
+
+    <TextView
+        android:id="@+id/welcome_tv_firstName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center_horizontal"
+        android:text="MINH"
+        android:textColor="#C34C44"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/tv" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/archivo_black"
+        android:gravity="center_horizontal"
+        android:text="Have a good day"
+        android:textColor="#F7F4FB"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@+id/welcome_tv_firstName" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/welcome_btn_lop"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/btn_3"
+        android:drawableTop="@drawable/class_100"
+        android:padding="10dp"
+        android:text="Lớp"
+        android:fontFamily="@font/rowdies"
+        android:textColor="#3E6360"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/gui6"
+        app:layout_constraintEnd_toStartOf="@id/gui7"
+        app:layout_constraintHeight_percent="0.22"
+        app:layout_constraintWidth_percent="0.31" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/welcome_btn_daoTao"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/btn_3"
+        android:drawableTop="@drawable/education_100"
+        android:fontFamily="@font/chonburi"
+        android:padding="10dp"
+        android:text="Đào Tạo"
+        android:textColor="#3E6360"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/gui6"
+        app:layout_constraintHeight_percent="0.22"
+        app:layout_constraintStart_toEndOf="@id/gui7"
+        app:layout_constraintWidth_percent="0.31" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/welcome_btn_webSite"
+        app:layout_constraintHeight_percent="0.22"
+        app:layout_constraintWidth_percent="0.31"
+        android:layout_width="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_height="0dp"
+        android:background="@drawable/btn_3"
+        android:padding="10dp"
+        android:drawableTop="@drawable/internet_100"
+        android:text="WebSite"
+        android:fontFamily="@font/rowdies"
+        android:textColor="#3E6360"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/gui6"
+        app:layout_constraintEnd_toStartOf="@id/gui7"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/welcome_btn_logOut"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_3"
+        android:drawableTop="@drawable/log_out_100"
+        android:fontFamily="@font/rowdies"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Log Out"
+        android:textColor="#3E6360"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintHeight_percent="0.22"
+        app:layout_constraintStart_toEndOf="@id/gui7"
+        app:layout_constraintTop_toBottomOf="@id/gui6"
+        app:layout_constraintWidth_percent="0.31" />
+</androidx.constraintlayout.widget.ConstraintLayout>

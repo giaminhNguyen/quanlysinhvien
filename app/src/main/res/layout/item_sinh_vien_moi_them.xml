@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    cardview:cardCornerRadius="15dp"
+    cardview:cardElevation="15dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:paddingTop="5dp"
+        android:background="@color/white"
+        android:paddingBottom="5dp">
+        <TextView
+            android:id="@+id/item_sinh_vien_moi_them_ten"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            cardview:layout_constraintTop_toTopOf="parent"
+            cardview:layout_constraintStart_toStartOf="parent"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/cantata_one"
+            android:textColor="@color/violet"
+            android:text="Nguyen Gia Minh"/>
+        <TextView
+            android:textSize="18sp"
+            android:fontFamily="@font/cantata_one"
+            android:layout_marginTop="10dp"
+            android:id="@+id/item_sinh_vien_moi_them_MSV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MSV:PH25430"
+            android:textColor="@color/violet"
+            cardview:layout_constraintTop_toBottomOf="@id/item_sinh_vien_moi_them_ten"
+            cardview:layout_constraintStart_toStartOf="parent"/>
+
+        <TextView
+            android:id="@+id/item_sinh_vien_moi_them_maLop"
+            android:textSize="18sp"
+            android:fontFamily="@font/cantata_one"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mã Lớp: CP17315"
+            android:textColor="@color/violet"
+            cardview:layout_constraintBottom_toBottomOf="parent"
+            cardview:layout_constraintEnd_toEndOf="parent"
+            cardview:layout_constraintTop_toBottomOf="@id/item_sinh_vien_moi_them_ten" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

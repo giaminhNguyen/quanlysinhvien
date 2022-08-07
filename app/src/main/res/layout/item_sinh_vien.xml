@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    cardview:cardCornerRadius="30dp"
+    android:layout_margin="10dp"
+    cardview:cardElevation="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:background="@color/white"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gui1"
+                android:layout_width="wrap_content"
+                app:layout_constraintGuide_percent="0.25"
+                android:layout_height="match_parent"
+                android:orientation="vertical" />
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gui2"
+                android:layout_width="wrap_content"
+                app:layout_constraintGuide_percent="0.75"
+                android:layout_height="match_parent"
+                android:orientation="vertical" />
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/gui3"
+                android:layout_width="match_parent"
+                app:layout_constraintGuide_percent="0.75"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+            <ImageView
+                android:id="@+id/item_sinh_vien_img_background"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:background="@color/violet"
+                app:layout_constraintBottom_toTopOf="@id/gui3"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"/>
+            <ImageView
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_width="0dp"
+                android:id="@+id/item_sinh_vien_img_avatar"
+                android:src="@drawable/child_girl_100"
+                android:scaleType="fitCenter"
+                android:layout_height="match_parent"
+                app:layout_constraintStart_toEndOf="@id/gui1"
+                app:layout_constraintEnd_toStartOf="@id/gui2"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/item_sinh_vien_tv_ten"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:fontFamily="@font/cantata_one"
+            android:text="Nguyễn Gia Minh"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:id="@+id/item_sinh_vien_tv_MSV"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cantata_one"
+            android:text="MSV: PH25430"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:id="@+id/item_sinh_vien_tv_maLop"
+            android:textColor="@color/black"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cantata_one"
+            android:text="Lớp: CP17315"/>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:weightSum="13"
+    android:background="@color/white">
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/fragment_dao_tao_viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="12"
+        android:background="@color/white"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        app:labelVisibilityMode="selected"
+        android:id="@+id/fragment_dao_tao_naviB"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:itemTextColor="#006804"
+        app:menu="@menu/dao_tao_navib"
+        android:background="@drawable/corner_16"/>
+
+</LinearLayout>

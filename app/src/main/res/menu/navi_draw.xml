@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/navid_home" android:title="Trang Chủ" android:icon="@drawable/home_35" />
+    <item android:id="@+id/navid_changePass" android:title="Đổi mật khẩu" android:icon="@drawable/password_30dp"/>
+    <item android:id="@+id/navid_logOut" android:title="Thoát" android:icon="@drawable/log_out_100"/>
+</menu>

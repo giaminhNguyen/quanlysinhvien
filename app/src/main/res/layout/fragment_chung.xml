@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/frag_chung_rv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        app:elevation="15dp"
+        android:id="@+id/frag_chung_float"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="25dp"
+        android:src="@drawable/icon_add_24"
+        android:backgroundTint="#FF9800"
+        app:rippleColor="#FF2C1C"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:id="@+id/frag_chung_floatSearch"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/frag_chung_floatAdd"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="5dp"
+        android:src="@drawable/search_25"
+        android:backgroundTint="#67CFFD"
+        app:rippleColor="#FF2C1C"
+        android:visibility="gone"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:id="@+id/frag_chung_floatAdd"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/frag_chung_float"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="15dp"
+        android:layout_marginEnd="5dp"
+        android:src="@drawable/icon_add_24"
+        android:backgroundTint="#06F30F"
+        app:rippleColor="#FF2C1C"
+        android:visibility="gone"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

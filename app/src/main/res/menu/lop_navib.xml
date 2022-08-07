@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navib_lopHoc" android:title="Lớp Học" android:icon="@drawable/class_34"/>
+    <item android:id="@+id/navib_sinhVien" android:title="Sinh Viên" android:icon="@drawable/student_34"/>
+</menu>
